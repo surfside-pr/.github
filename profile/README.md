@@ -3,15 +3,14 @@
 
 <table>
 <tr>
-<th>Español</th>
-<th>English</th>
+<th>🇵🇷</th>
+<th>🇺🇸</th>
 </tr>
 <tr>
 <td valign="top">
 
 **Surfside Mansions Condominiums** es un Consejo de Titulares en
-Carolina, Puerto Rico — una torre de 17 pisos con 121 unidades
-frente al mar.
+Carolina, Puerto Rico.
 
 Nos comprometemos a desarrollar y poner a disposición herramientas
 que ayuden a construir comunidades de propiedad compartida felices y
@@ -27,8 +26,7 @@ abierto, y trabajamos para llenar ese vacío.
 <td valign="top">
 
 **Surfside Mansions Condominiums** is a *Consejo de Titulares*
-(owners' council / HOA) in Carolina, Puerto Rico — a 17-story tower
-with 121 units on the beach.
+(owners' council / HOA) in Carolina, Puerto Rico.
 
 We're committed to developing and making available tools that help
 build happy, functional shared-ownership communities. Bilingual
