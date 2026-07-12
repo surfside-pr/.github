@@ -1,4 +1,4 @@
-<h1 align="center">Surfside Mansions Condominiums</h1>
+<h3 align="center">Surfside Mansions Condominiums</h3>
 <p align="center">Carolina, Puerto Rico 🌊</p>
 
 <table>
