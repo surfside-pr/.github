@@ -1,22 +1,12 @@
-<h3 align="center">Surfside Mansions Condominiums</h3>
-<p align="center">Carolina, Puerto Rico 🌊</p>
+<h3 align="left">Surfside Mansions Condominiums 🌊</h3>
+<p align="left">Carolina, Puerto Rico </p>
 
 <table>
-<tr>
-<th>
 
-## 🇪🇸 (ES)
-
-</th>
-<th>
-
-## 🇬🇧 (EN)
-
-</th>
-</tr>
 <tr>
 <td valign="top">
 
+  ## 🇪🇸 (ES)
 **Surfside Mansions Condominiums** es un Consejo de Titulares en
 Carolina, Puerto Rico.
 
@@ -33,6 +23,7 @@ abierto, y trabajamos para llenar ese vacío.
 </td>
 <td valign="top">
 
+## 🇬🇧 (EN)
 **Surfside Mansions Condominiums** is a *Consejo de Titulares*
 (owners' council / HOA) in Carolina, Puerto Rico.
 
